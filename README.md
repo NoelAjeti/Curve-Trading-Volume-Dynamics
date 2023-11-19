@@ -8,6 +8,8 @@ Prepared by: Noel Ajeti
 
 Report Link: https://flipsidecrypto.xyz/ajeti/analysis-of-curve-platform-s-activity-and-ecosystem-dynamics-1HKP1I 
 
+PDF Report: https://market.oceanprotocol.com/asset/did:op:9e82b48a68b2340f96278b3f85f0aae12a303a9f6aca29b09faa0b583b66b5f4
+
 Executive Summary
 
 The Curve platform has witnessed substantial activity within its ecosystem, handling approximately 5.4 million Swap transactions among a community of 582,000 users, resulting in a cumulative exchange surpassing $334 billion USD. This report delves into the user behavior, transaction patterns, comparative analysis with other decentralized finance platforms, and the role of various networks within the Curve Finance ecosystem.
